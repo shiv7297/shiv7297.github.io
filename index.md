@@ -4,7 +4,7 @@ Welcome to my personal portfolio! This document contains information about my ba
 ---
 ## About Me
 
-Hello! I'm [Shivpratap Singh Rathore], a passionate developer, lifelong learner, and technology enthusiast. I specialize in full-stack web development and have experience in building scalable applications using various modern technologies.
+Hello! I'm **Shivpratap Singh Rathore**, a passionate developer, lifelong learner, and technology enthusiast. I specialize in full-stack web development and have experience in building scalable applications using various modern technologies.
 ---
 ## Education
 | Degree                | University            | Graduation Year | Field of Study   |
@@ -15,10 +15,10 @@ I am currently pursed a B.tech in Software Engineering to deepen my understandin
 ---
 ## Skills & Technologies
 - **Languages**: Python, JavaScript, C++
-- **Frontend**: HTML5, CSS3, React, Vue.js
-- **Backend**: Node.js, Django, Flask, Express
-- **Databases**: MySQL, MongoDB, PostgreSQL
-- **Tools & Technologies**: Git, Docker, AWS, Kubernetes
+- **Frontend**: HTML5, CSS3.
+- **Backend**: Node.js, Django.
+- **Databases**: MySQL.
+- **Tools & Technologies**: Git, Docker.
 ---
 ## Projects
 Here are a few of the projects I've worked on:
