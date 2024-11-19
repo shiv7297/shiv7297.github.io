@@ -9,7 +9,7 @@ Hello! I'm [Shivpratap Singh Rathore], a passionate developer, lifelong learner,
 ## Education
 | Degree                | University            | Graduation Year | Field of Study   |
 |-----------------------|-----------------------|-----------------|------------------|
-| B.tech in Computer Science |  MNIT Jaipur       | 2022            | Computer Science |
+| B.tech in Cse         |  MNIT Jaipur          | 2022            | Computer Science |
 
 I am currently pursed a B.tech in Software Engineering to deepen my understanding of advanced topics like artificial intelligence, machine learning, and cloud computing.
 ---
